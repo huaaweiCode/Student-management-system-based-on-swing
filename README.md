@@ -1,10 +1,5 @@
 # 基于swing的学生管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**学生1** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -37,11 +32,4 @@ swing
 
 ![管理员-成绩管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121457149.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**成绩1** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
